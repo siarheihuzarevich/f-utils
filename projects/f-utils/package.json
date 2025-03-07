@@ -1,6 +1,6 @@
 {
   "name": "@foblex/utils",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A comprehensive collection of utility functions and classes for TypeScript and web development, providing tools for type casting, DOM manipulation, event handling, and GUID generation.",
   "main": "index.js",
   "types": "index.d.ts",
